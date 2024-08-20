@@ -4,6 +4,7 @@ async function main() {
   console.log(`Carrinho de compras:`)
   p.getFullName('4010', 'mouse')
   p.getFullName('3022', 'teclado')
+  p.getProductLabel('caixa de som')
 }
 
 
